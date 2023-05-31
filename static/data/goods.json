@@ -1,0 +1,16 @@
+[
+  {"id":1, "kind": 1, "img": "/static/imgs/goods/手机.png", "title": "小米10", "content": "手机介绍", "price": 4800 },
+  {"id":2, "kind": 1, "img": "/static/imgs/goods/手机2.png", "title": "oppo r17", "content": "手机介绍", "price": 5000 },
+  {"id":3, "kind": 2, "img": "/static/imgs/goods/电脑.png", "title": "联想", "content": "电脑介绍", "price": 5400 },
+  {"id":4, "kind": 2, "img": "/static/imgs/goods/电脑2.png", "title": "华硕", "content": "电脑介绍", "price": 5200 },
+  {"id":5, "kind": 3, "img": "/static/imgs/goods/电视机.png", "title": "TCL", "content": "电视机介绍", "price": 2000 },
+  {"id":6, "kind": 3, "img": "/static/imgs/goods/电视机2.png", "title": "长虹", "content": "电视机介绍", "price": 4500 },
+  {"id":7, "kind": 4, "img": "/static/imgs/goods/照相机.png", "title": "索尼", "content": "照相机介绍", "price": 5900 },
+  {"id":8, "kind": 4, "img": "/static/imgs/goods/照相机2.png", "title": "佳能", "content": "照相机介绍", "price": 6500 },
+  {"id":9, "kind": 5, "img": "/static/imgs/goods/耳机.png", "title": "头戴式", "content": "耳机介绍", "price": 100 },
+  {"id":10, "kind": 5, "img": "/static/imgs/goods/耳机2.png", "title": "入耳式", "content": "耳机介绍", "price": 40 },
+  {"id":11, "kind": 6, "img": "/static/imgs/goods/充电器.png", "title": "小米", "content": "充电器介绍", "price": 55 },
+  {"id":12, "kind": 6, "img": "/static/imgs/goods/充电器2.png", "title": "华为", "content": "充电器介绍", "price": 150 },
+  {"id":13, "kind": 7, "img": "/static/imgs/goods/充电宝.png", "title": "小米", "content": "充电宝介绍", "price": 200 },
+  {"id":14, "kind": 7, "img": "/static/imgs/goods/充电宝2.png", "title": "华为", "content": "充电宝介绍", "price": 150 }
+]
